@@ -14,7 +14,7 @@ namespace MediScoreCalculation
             set;
         }
 
-        public Observations Observations
+        public Observations? Observations
         {
             get; 
             set;
